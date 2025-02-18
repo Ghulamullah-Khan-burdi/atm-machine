@@ -21,7 +21,6 @@ export default function Home() {
 
   // Theme classes
   const mainBg = isDarkMode ? 'bg-gray-900' : 'bg-gray-200';
-  const cardBg = isDarkMode ? 'bg-gray-800' : 'bg-gray-100';
   const screenBg = isDarkMode ? 'bg-black' : 'bg-[#2d3436]';
   const textColor = 'text-green-500';
   const inputBg = 'bg-black';
